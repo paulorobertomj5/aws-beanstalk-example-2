@@ -12,5 +12,5 @@ phases:
       - echo "Entered the post-build phase"
 artifacts:
   files:
-    - target/order-service.jar
+    - target/aws-elasticbeanstalk-example-2.jar
   discard-paths: yes
